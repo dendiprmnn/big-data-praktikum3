@@ -2,7 +2,7 @@
 
 ## Praktikum-3-Data-Integrasi
 
-**Nama:** Intan Virginia Aulia Putri  
+**Nama:** Dendi Permana
 **Modul:** 03 – Data Integrasi  
 **Kasus Studi:** Data Ingestion menggunakan Sqoop, Flume, dan Kafka  
 **Tools:** Apache Sqoop, Apache Flume, Apache Kafka  
